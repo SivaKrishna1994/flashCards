@@ -1,0 +1,18 @@
+[
+    {
+        "groupName": "Plants",
+        "flashCardQuestion": "How do plants obtain energy?",
+        "flashCardAnswer": "Photosynthesis",
+        "language": "English",
+        "code": "en",
+        "groupNameInLanguage": "Plants"
+    },
+    {
+        "groupName": "Plants",
+        "flashCardQuestion": "¿Cómo obtienen energía las plantas?",
+        "flashCardAnswer": "Fotosíntesis",
+        "language": "Spanish",
+        "code": "es",
+        "groupNameInLanguage": "Plantas"
+    }
+]
